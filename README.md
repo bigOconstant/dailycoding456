@@ -1,7 +1,5 @@
 Good morning! Here's your coding interview problem for today.
 
-This problem was asked by Amazon.
-
 You are given a list of data entries that represent entries and exits of groups of people into a building. An entry looks like this:
 
 `{"timestamp": 1526579928, count: 3, "type": "enter"}`
